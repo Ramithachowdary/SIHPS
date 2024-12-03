@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03/12/2024
+## Register Number:24900704
+## Name:RAMITHA CHOWDARY S 
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -29,4 +29,22 @@ scholarships.
 
 
 ## Use Cases
-![Uploading Screenshot 2024-11-25 195956.png…]()
+![Screenshot 2024-12-03 084131](https://github.com/user-attachments/assets/13b5192a-4834-44c7-b797-36341e1a74db)
+
+## Technology Stack
+1. React/Angular (frontend)
+2. Node.js/Python (backend)
+3. PostgreSQL/MongoDB (database)
+4. Firebase (notifications)
+
+## Dependencies
+1. Frontend: React/Angular, Axios for API calls, Material-UI for styling, Firebase for
+authentication, and Chart.js for data visualization.
+2. Backend: Node.js/Express or Django, MongoDB/PostgreSQL for data storage,
+JWT/OAuth for authentication, and Socket.io for real-time features.
+3. DevOps: Docker for containerization, AWS/Google Cloud for hosting, and CI/CD
+tools for deployment.
+4. Testing: Jest, Supertest, and Cypress for testing.
+5. Security: Helmet.js, CORS middleware, and rate limiting for protection.
+6. Analytics/Notifications: Google Analytics, Sentry for monitoring, and
+Twilio/SendGrid for notifications.
