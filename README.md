@@ -10,16 +10,23 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Alumni Directory: A searchable database where alumni can update profiles and
+connect.
+2. Networking & Mentorship: Allows students to connect with alumni for career
+guidance.
+3. Event Management: Organizes alumni events like reunions, webinars, and meetups.
+4. Job Opportunities: A job board for alumni and students to share career
+opportunities.
+5. News & Updates: Shares institutional news and alumni achievements.
+6. Donation & Fundraising: Enables alumni to contribute to university projects and
+scholarships.
+7. Discussion Forums: Alumni can engage in interest-based discussions and groups.
+8. Mobile Access: A mobile app or responsive site for on-the-go access.
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-12-03 083655](https://github.com/user-attachments/assets/f84bd25e-5cab-4b30-a2a5-d7295c3d65c5)
 
 
 ## Use Cases
-
-
-## Technology Stack
-
-
-## Dependencies
-
+![Uploading Screenshot 2024-11-25 195956.png…]()
